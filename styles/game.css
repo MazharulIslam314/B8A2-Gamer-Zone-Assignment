@@ -1,0 +1,101 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.header{
+    display: flex;
+   justify-content: space-between;
+   background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+width: 1920px;
+height: 130px;
+padding: 0px 240px;
+align-items: center;
+}
+.header-title{
+    display: flex;
+    gap: 20px;
+}
+nav img{
+    width: 86.041px;
+height: 40px;
+text-align: center;
+margin-top: 44px;
+margin-bottom: 46px;
+
+}
+nav h3{
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 38px;
+    width: 147px;
+    height: 53px;
+    margin-bottom: 39px;
+}
+nav .g{
+    color: Linear;
+}
+nav .about-us-developers{
+    margin-top: 54px;
+    margin-bottom: 55px;
+    height: 21px;
+}
+
+nav .header-text{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    color: #3C354F;
+font-size: 18px;
+font-weight: 500;
+justify-content: center;
+text-align: center;
+
+}
+nav .follow{
+    display: flex;
+    border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+width: 262px;
+height: 56px;
+margin-top: 37px;
+margin-bottom: 37px;
+gap: ;
+}
+nav .fuo{
+    margin-top: 17px;
+    /* width: 116px;
+    height: 21px; */
+    margin-bottom: 18px;
+}
+nav li .yt{
+margin: 16px 16px 16px 24px;
+}
+nav li .tiktok{
+    margin: 16px 24px 16px 16px;
+}
+
+/* main styles */
+.goat-container{
+    display: flex;
+    width: 1920px;
+height: 700px;
+justify-content: space-between;
+}
+.goat-text{
+    width: 901px;
+height: 700px;
+fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
+}
+.play-like-the{
+    width: 348px;
+    height: 56px;
+}
+.goat{
+    width: 355px;
+    height: 111px;
+}
+
+
