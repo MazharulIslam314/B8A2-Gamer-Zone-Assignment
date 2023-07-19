@@ -290,24 +290,179 @@ height: 30px;
 }
 .card-container{
     display: flex;
-    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    background-color: #FFF;;
     width: 1920px;
     gap: 24px;
-    /* padding-left: 240px;
-    padding-right: 240px; */
-    background-color: aqua;
-}
-.card{
-    width: 342px;
-    border-radius: 16px;
-}
-.card p{
     
+   
+}
+.card-1{
+    height: 484px;
+    width: 342px;
+    margin-top: 48px;
+}
+.card-2{
+    height: 484px;
+    width: 342px;
+    margin-top: 48px;
+}
+.card-3{
+    height: 484px;
+    width: 342px;
+    margin-top: 48px;
+}
+.card-4{
+    height: 484px;
+    width: 342px;
+    margin-top: 48px;
+}
+.sec-4{
+    /* background-color: blueviolet; */
+    width: 1920px;
+    display: flex;
+}
+.Play-Games{
+    width: 426px;
+    height: 180px;
+    font-family: Work Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.Anywhere-Anytime{
+   
+color: #0B0223;
+font-family: Work Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px;
+}
+.play-text{
+width: 483px;
+height: 90px;
     color: #534C64;
 font-family: Work Sans;
-font-size: 20px;
+font-size: 18px;
+font-weight: 400; 
+}
+.player-pic{
+    width: 710px;
+height: 650px;
+border-radius: 8px;
+margin-bottom: 120px;
+
+}
+.small-player-pic{
+    width: 318px;
+    height: 365px;
+    border-radius: 8px;
+border: 10px solid #FFF;
+position: relative;
+right: 120px;
+}
+.img-section{
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    width: 1920px;
+height: 427px;
+}
+.logo-img{
+    display: flex;
+    width: 243px;
+height: 80px;
+}
+
+.img-part-1{
+    display: flex;
+    margin: 120px 27px 27px 240px;
+}
+.img-part-2{
+    display: flex;
+    margin: 0px 33px 120px 325px;
+}
+footer{
+    width: 1920px;
+height: 636px;
+background: #0B0223;
+}
+.header-title-1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  gap: ;
+ 
+ 
+}
+.h3-2{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+margin: 120px 833px 0px 20px;
+
+}
+.img-2{
+    width: 86.041px;
+height: 40px;
+margin: 121px 0px 63px 833px;
+
+}
+.footer-ul li{
+color: #FFF;
+
+list-style: none;
+
+}
+
+.footer-ul ul{
+    display: flex;
+    justify-content: center;
+align-items: center;
+gap: 60px;
+}
+.app-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 66px;
+    gap: 40px;
+}
+.privacy-line ul{
+    display: flex;
+    justify-content: center;
+text-align: center;
+gap: 60px;
+margin-top: 74px;
+}
+.privacy-line li{
+
+
+color: rgba(255, 255, 255, 0.60);
+font-family: Work Sans;
+font-size: 16px;
 font-weight: 500;
-line-height: 30px;
+}
+.last-line{
+    text-align: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+margin-top: 18px;
 }
 
 
