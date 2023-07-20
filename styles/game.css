@@ -7,11 +7,11 @@ font-family: 'Work Sans', sans-serif;
 .header{
     display: flex;
    justify-content: space-between;
-   background: #FFF;
+   background: #fff;
 box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
 width: 1920px;
 height: 130px;
-padding: 0px 240px;
+/* padding: 0px 240px; */
 align-items: center;
 }
 .header-title{
@@ -53,6 +53,9 @@ background-clip: text;
     height: 21px;
     margin-right: 32px;
 }
+.Follow-Us{ 
+
+}
 nav .header-text{
     display: flex;
     list-style: none;
@@ -62,7 +65,6 @@ font-size: 18px;
 font-weight: 500;
 justify-content: center;
 text-align: center;
-
 }
 nav .follow{
     display: flex;
@@ -74,22 +76,18 @@ width: 262px;
 height: 56px;
 margin-top: 37px;
 margin-bottom: 37px;
-gap: ;
+gap: 32px;
 margin-right: 240px;
 margin-left: 0px;
 }
-nav .fuo{
-    margin-top: 17px;
-    /* width: 116px;
-    height: 21px; */
-    margin-bottom: 18px;
-}
+
 nav li .yt{
-margin: 16px 16px 16px 24px;
+margin-left: 32px;
+margin-right: 32px;
 }
-nav li .tiktok{
+/* nav li .tiktok{
     margin: 16px 24px 16px 16px;
-}
+} */
 
 /* main styles */
 .goat-container{
@@ -97,7 +95,7 @@ nav li .tiktok{
     width: 1920px;
 height: 700px;
 justify-content: space-between;
-background-color: #df5555;
+background-color: #8C57EE0D, #F144AE0D;
 background-size: 1920px 700px;
 }
 .goat-pic{
@@ -258,7 +256,7 @@ line-height: 45px;
 margin-right: 240px;
 }
 .ONline-Game-container{
-    background-color: aliceblue;
+    background-color: #FFF;
     width: 1920px;
     text-align: center;
     justify-content: center;
@@ -322,6 +320,8 @@ height: 30px;
     /* background-color: blueviolet; */
     width: 1920px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Play-Games{
     width: 426px;
